@@ -1,6 +1,6 @@
 Title of the project: Real Time Bus Tracker Route 22
 
-Description of the project: This project displays route 22 of the MBTA system in real time on a Google map.
+Description of the project: This project displays Route 22 of the Massachusetts Bay Transportation Authority (MBTA) system in real time on a Google map.
 
 How to Run:
 1: Clone the repository in its entirety using your preferred cloning method, or download as a .zip folder.
